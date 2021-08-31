@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-swiper":"../../components/u-swiper/u-swiper"
+  },
+  "navigationBarTitleText": "购物街"
+}

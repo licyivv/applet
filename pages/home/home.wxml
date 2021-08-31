@@ -1,0 +1,6 @@
+<!--pages/home/home.wxml-->
+<!-- 
+  展示轮播图
+ -->
+<u-swiper list="{{banners}}"/>
+
